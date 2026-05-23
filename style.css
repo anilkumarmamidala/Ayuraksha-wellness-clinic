@@ -880,7 +880,7 @@ CONTACT
   height: 55vh;
   background: linear-gradient(rgba(0,0,0,0.55),
       rgba(0,0,0,0.55)),
-      url("/Images/background.avif") center/cover no-repeat;
+      url("./Images/background.avif") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
